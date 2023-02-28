@@ -1,0 +1,14 @@
+.card{
+  position:absolute;
+  top: 25px;
+}
+
+img{
+  padding:10px;
+  border-radius: 5%;
+}
+
+p{
+  font-size: 15px;
+  color: grey;
+}
